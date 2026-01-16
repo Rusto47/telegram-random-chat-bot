@@ -1,6 +1,6 @@
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
-TOKEN = "PASTE_YOUR_BOT_TOKEN_HERE"
+TOKEN = "8083661276:AAHZ53ysOQDZ3sq4dzthEJ88OH3GvsPIi7A"
 
 waiting_user = None
 pairs = {}
